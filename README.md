@@ -10,6 +10,9 @@ The speed of the script's operation and performance may differ slightly from the
 Overall, this script is useful.
 
 version GUI new add!
+Compiled versions of C language added!
+
+** Compiled versions are the most optimized versions.
 
 ## Installing dependencies:
 
@@ -55,7 +58,10 @@ Successful file output:
 
 Versoin GUI:
 
-![](./)
-![](./)
+![](./image-2)
+
+Version compiled:
+
+![](./image-3)
 
 > Telegram channel: https://t.me/zeroBlackCode <img src="https://gifdb.com/images/high/toji-fushiguro-yawning-sleepy-walking-out-fmdjqyb05j3c8j2t.webp" alt="" width="60">
