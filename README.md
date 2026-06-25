@@ -48,19 +48,17 @@ The .abj file format must have a port and an additional word for the script and 
 ...
 
 -----------------------------------------
+
+Version python script:
+
 ![](./image-0.png)
-
-
-Successful file output:
-
-![](./image-1.png)
 
 Versoin GUI:
 
-![](./image-3)
+![](./image-3.png)
 
 Version compiled:
 
-![](./image-2)
+![](./image-2.png)
 
 > Telegram channel: https://t.me/zeroBlackCode <img src="https://gifdb.com/images/high/toji-fushiguro-yawning-sleepy-walking-out-fmdjqyb05j3c8j2t.webp" alt="" width="60">
