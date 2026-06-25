@@ -13,6 +13,11 @@ version GUI new add!
 Compiled versions of C language added!
 Compiled versions are the most optimized versions.
 
+Compiled versions are written in C and are more optimized than the binary version. In addition to being optimized, they are much faster, consume significantly less system resources, such as RAM and CPU, and are more efficient.
+
+The graphical version is more suitable for administration and for those who want to use it on Windows servers that can run graphical tools because it is simple, fast and convenient to work with. It is optimized and uses fewer system resources than the terminal version of Bytony.
+
+
 ## Installing dependencies:
 
 Debian/Ubuntu/Kali Linux:
